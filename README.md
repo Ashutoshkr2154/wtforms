@@ -15,7 +15,7 @@ Flask Login App is a simple web application built with Flask that allows users t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MirelaManta/flask-wtforms.git
+   git clone[ https://github.com/Ashutoshkr2154/wtforms]
    ```
 
 2. Navigate to the project directory:
